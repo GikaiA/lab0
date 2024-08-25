@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Introduce
 //
-//  Created by Hamza Banyhany on 8/23/24.
+//  Created by Gikai Andrews on 8/23/24.
 //
 
 import UIKit
